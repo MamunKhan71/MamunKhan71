@@ -42,6 +42,9 @@ Currently,
   <a title="Python" href="https://python.org/">
     <img src="https://img.shields.io/badge/python-%23777BB4.svg?&style=flat-square&logo=python&logoColor=white"/>
   </a>
+  <a title="C" href="https://devdocs.io/c/">
+    <img src="https://img.shields.io/badge/C%20Programming-%23777BB4.svg?&style=flat-square&logo=c-programming&logoColor=white"/>
+  </a>                                                                                                               
   <a title="Java" href="https://docs.oracle.com/en/java/">
     <img src="https://img.shields.io/badge/Java-%23777BB4.svg?&style=flat-square&logo=javadoc&logoColor=white"/>
   </a>
