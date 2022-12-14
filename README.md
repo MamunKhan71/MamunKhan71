@@ -11,19 +11,19 @@ Currently,
 <h2 align="center">📫 Find me here</h2>
 <p align="center">
     <a title="Facebook" href="https://www.facebook.com/mkmamun111/">
-        <img src="https://img.shields.io/badge/-Robius%20Sani-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
     <a title="LinkedIn" href="https://www.linkedin.com/in/mdmamun99/">
-        <img src="https://img.shields.io/badge/-Robius%20Sani-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=linkedin&logoColor=ffffff" />
     </a>
     <a title="Instagram" href="https://www.instagram.com/mamun_khan87/">
-        <img src="https://img.shields.io/badge/-Robius%20Sani-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=instagram&logoColor=ffffff" />
     </a>
     <a title="Twitter"https://twitter.com/MdMamun3523">
-        <img src="https://img.shields.io/badge/-Robius%20Sani-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=twitter&logoColor=ffffff" />
     </a>
     <a title="Github" href="https://github.com/MamunKhan71">
-        <img src="https://img.shields.io/badge/-Robius%20Sani-%23211F1F?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=github&logoColor=ffffff" />
     </a>
 </p>
 
