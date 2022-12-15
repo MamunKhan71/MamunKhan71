@@ -4,7 +4,7 @@
 
 <b>Currently,</b>
 - 👀 I’m a Full Stack Software Developer (Python)
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Python and Flask
 - 💞️ I’m looking to collaborate on Both online and offline based IT company as a software developer.
 - 📫 Reach me via my email: mkmamun031@gmail.com
 
@@ -26,7 +26,6 @@
         <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=github&logoColor=ffffff" />
     </a>
 </p>
-
 <h2 align="center"> GitHub Stats </h2>
 <div align="center">
     <a href="https://github.com/MamunKhan71" >
@@ -93,6 +92,9 @@
   <a title="Sublime Text" href="https://www.sublimetext.com/3">
     <img src="https://img.shields.io/badge/-sublime%20text-%23fa9931?style=flat-square&logo=sublime-text&logoColor=white" />
   </a>
+  <a title="Atom" href="https://atom.io/">
+    <img src="https://img.shields.io/badge/-Atom-%23fa9931?style=flat-square&logo=atom&logoColor=white" />
+  </a>    
 </p>
 
 <h2 align="center"> Server End </h2>
