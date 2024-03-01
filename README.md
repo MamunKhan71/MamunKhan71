@@ -60,6 +60,9 @@
 <a title="JavaScript" href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
+<a title="Tailwind" href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
+</a>
 </p>
 
 <h2 align="center"> Frameworks </h2>
