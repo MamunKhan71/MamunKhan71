@@ -3,8 +3,8 @@
 <p align="left">My name is <a href="https://www.facebook.com/mkmamun111/">Md. Mamun.</a> I born in Cumilla, Bangladesh. I am a dreamer. I am a believer and I am a doer. I am a person who is positive in every aspect of life. I love experimenting with new things when it comes to technology. I am a tech-savvy person and that's why I choose to study at CSE. I am well known for my technical skills in technology. I can speak both Bangla and English well. I am a quick learner and a self-motivated person.</p>
 
 <b>Currently,</b>
-- 👀 I’m a Full Stack Software Developer.
-- 🌱 I’m currently working with Python and Flask
+- 👀 I’m a Full Stack Web Developer.
+- 🌱 I’m currently working as with MERN Stack!
 - 💞️ I’m looking to collaborate on Both online and offline based IT company as a software developer.
 - 📫 Reach me via my email: mkmamun031@gmail.com
 
