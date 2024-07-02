@@ -1,4 +1,4 @@
-<h1 align="left"> <br>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></br></h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></br></h1>
 <img src="https://res.cloudinary.com/dfwmhlhyo/image/upload/v1719904669/rzymjtlv8hfge4msuemr.png" style="width: 100%;"/><br/><br/>
 <p align="left">My name is <a href="https://www.facebook.com/mkmamun111/">Md. Mamun.</a> I born in Cumilla, Bangladesh. I am a dreamer. I am a believer and I am a doer. I am a person who is positive in every aspect of life. I love experimenting with new things when it comes to technology. I am a tech-savvy person and that's why I choose to study at CSE. I am well known for my technical skills in technology. I can speak both Bangla and English well. I am a quick learner and a self-motivated person.</p>
 
