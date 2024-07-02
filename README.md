@@ -1,14 +1,17 @@
 
-<div style="background-color:#ffffff; color:#c9d1d9; padding:20px; border-radius:10px;">
+<div>
     <h1 align="left"> <br>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></br></h1>
 <img src="https://res.cloudinary.com/dfwmhlhyo/image/upload/v1719904669/rzymjtlv8hfge4msuemr.png" style="width: 100%;"/><br/><br/>
 <p align="left">My name is <a href="https://www.facebook.com/mkmamun111/">Md. Mamun.</a> I born in Cumilla, Bangladesh. I am a dreamer. I am a believer and I am a doer. I am a person who is positive in every aspect of life. I love experimenting with new things when it comes to technology. I am a tech-savvy person and that's why I choose to study at CSE. I am well known for my technical skills in technology. I can speak both Bangla and English well. I am a quick learner and a self-motivated person.</p>
 
 <b>Currently,</b>
 - 👀 I’m a Full Stack Web Developer.
-- 🌱 I’m currently working as with MERN Stack!
-- 💞️ I’m looking to collaborate on Both online and offline based IT company as a software developer.
+- 🌱 I’m currently working with MERN Stack!
+- 👯 I’m looking to collaborate on **Both online and offline based IT company as a web developer.**
 - 📫 Reach me via my email: mkmamun031@gmail.com
+- 👨‍💻 All of my projects are available at my [portfolio](https://mdmamun.netlify.app/)
+- 📝 I regularly write articles on [dev.to](https://dev.to/mamunkhan71)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1DPsDuE3zWSirxVbNYEVCTBvWcPb1NA23/view?usp=sharing)
 
 <h2 align="center"><br>📫</br>Find Me Here</h2>
 
@@ -51,6 +54,7 @@
 <h2 align="center"> Languages and Tools</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+    <img src="https://img.shields.io/badge/React-282C34?logo=react" alt="JavaScript logo" title="JavaScript" height="25" />
     <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
     <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
     <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
@@ -82,9 +86,12 @@
 <p align="center">
     <a href="https://ko-fi.com/mamunkhan71"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mamunkhan71" /></a>
 </p>
-<h2 align="center"> 𝗩isitor Count </h2>
+<h2 align="center"> Overview</h2>
 <p align="center">
-    <img title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=MamunKhan71" />
+  <a href="https://github-profile-trophy.vercel.app/?username=MamunKhan71&theme=dracula&no-frame=true&no-bg=false&margin-w=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=MamunKhan71&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="mamunkhan71" />
+  </a>
 </p>
+
 
 </div>
