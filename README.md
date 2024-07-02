@@ -1,5 +1,7 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> <br>Hey There</br></h1>
 
+<div style="background-color:#ffffff; color:#c9d1d9; padding:20px; border-radius:10px;">
+    <h1 align="left"> <br>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></br></h1>
+<img src="https://res.cloudinary.com/dfwmhlhyo/image/upload/v1719904669/rzymjtlv8hfge4msuemr.png" style="width: 100%;"/><br/><br/>
 <p align="left">My name is <a href="https://www.facebook.com/mkmamun111/">Md. Mamun.</a> I born in Cumilla, Bangladesh. I am a dreamer. I am a believer and I am a doer. I am a person who is positive in every aspect of life. I love experimenting with new things when it comes to technology. I am a tech-savvy person and that's why I choose to study at CSE. I am well known for my technical skills in technology. I can speak both Bangla and English well. I am a quick learner and a self-motivated person.</p>
 
 <b>Currently,</b>
@@ -26,12 +28,22 @@
         <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=github&logoColor=ffffff" />
     </a>
 </p>
+
 <h2 align="center"> GitHub Stats </h2>
 <div align="center">
-    <a href="https://github.com/MamunKhan71" >
-        <img height="180em" title="github stats" src="https://github-readme-stats.vercel.app/api?username=MamunKhan71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-        <img height="180em" title="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunKhan71&layout=compact&langs_count=7&theme=tokyonight">
-    </a>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamunkhan71&theme=dark&hide_border=true" alt="mamunkhan71" style="width: 70%; max-width: 600px; border-radius: 20px;" />
+</p>
+
+<a href="https://github.com/MamunKhan71" style="display: flex; justify-content: center;">
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=MamunKhan71&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" style="height: 200px; width: auto; max-height: 200px; border-radius: 20px;" />
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunKhan71&layout=compact&langs_count=7&theme=dark&hide_border=true" style="height: 200px; width: auto; max-height: 200px; border-radius: 20px;" />
+</a>
+
+
+
+
+
 </div>
 <hr/>
 
@@ -107,7 +119,14 @@
     <img src="https://img.shields.io/badge/-Xampp-%23007ACC?style=flat-square&logo=xampp&logoColor=white"/>
   </a>
 </p>
+
+<h2 align="center">Support</h2>
+<p align="center">
+    <a href="https://ko-fi.com/mamunkhan71"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mamunkhan71" /></a>
+</p>
 <h2 align="center"> 𝗩isitor Count </h2>
 <p align="center">
     <img title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=MamunKhan71" />
 </p>
+
+</div>
