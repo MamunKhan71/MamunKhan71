@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate on **Both online and offline based IT company as a web developer.**
 - 📫 Reach me via my email: mkmamun031@gmail.com
 - 👨‍💻 All of my projects are available at my [portfolio](https://mdmamun.netlify.app/)
-- 📝 I regularly write articles on [dev.to](https://dev.to/mamunkhan71)
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1DPsDuE3zWSirxVbNYEVCTBvWcPb1NA23/view?usp=sharing)
 
 <h2 align="center"><br>📫</br>Find Me Here</h2>
