@@ -11,21 +11,22 @@
 - 📫 Reach me via my email: mkmamun031@gmail.com
 
 <h2 align="center"><br>📫</br>Find Me Here</h2>
+
 <p align="center">
     <a title="Facebook" href="https://www.facebook.com/mkmamun111/">
-        <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook" />
     </a>
     <a title="LinkedIn" href="https://www.linkedin.com/in/mdmamun99/">
-        <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=linkedin&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin" />
     </a>
     <a title="Instagram" href="https://www.instagram.com/mamun_khan87/">
-        <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=instagram&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/instagram-282C34?logo=instagram" />
     </a>
     <a title="Twitter" href="https://twitter.com/MdMamun3523">
-        <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=twitter&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/x.com-282C34?logo=x" />
     </a>
     <a title="Github" href="https://github.com/MamunKhan71">
-        <img src="https://img.shields.io/badge/-Md.%20Mamun-%233b5998?style=flat-square&logo=github&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/github-282C34?logo=github" />
     </a>
 </p>
 
@@ -47,77 +48,34 @@
 </div>
 <hr/>
 
-<h2 align="center"> Programming Languages </h2>
-<p align="center">
-  <a title="Python" href="https://python.org/">
-    <img src="https://img.shields.io/badge/python-%23777BB4.svg?&style=flat-square&logo=python&logoColor=white"/>
-  </a>
-  <a title="C" href="https://devdocs.io/c/">
-    <img src="https://img.shields.io/badge/C%20Programming-%23777BB4.svg?&style=flat-square&logo=c-programming&logoColor=white"/>
-  </a>                                                                                                               
-  <a title="Java" href="https://docs.oracle.com/en/java/">
-    <img src="https://img.shields.io/badge/Java-%23777BB4.svg?&style=flat-square&logo=javadoc&logoColor=white"/>
-  </a>
-</p>
-
-<h2 align="center"> Front-End Technologies </h2>
-<p align="center">
-
-<a title="HTML5" href="https://www.w3schools.com/html/default.asp">
-  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
-</a>
-<a title="CSS3" href="https://www.w3schools.com/css/default.asp">
-    <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
-</a>
-<a title="JavaScript" href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-</a>
-<a title="Tailwind" href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
-</a>
-</p>
-
-<h2 align="center"> Frameworks </h2>
-<p align="center">
-
-<a title="Flask" href="https://flask.palletsprojects.com/en/2.2.x/">
-  <img src="https://img.shields.io/badge/Flask-%23777BB4.svg?&style=flat-square&logo=Flask&logoColor=white"/>
-</a>
-</p>
-
-<h2 align="center"> Version Controlling Tools </h2>
-<p align="center">
-  <a title="Git" href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git%20-%23eb4d29.svg?&style=flat-square&logo=git&logoColor=white"/>
-  </a>
-  <a title="Github" href="http://github.com/">
-    <img src="https://img.shields.io/badge/Github%20-%23F05033.svg?&style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
+<h2 align="center"> Languages and Tools</h2>
+<div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+    <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+    <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+    <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
+    <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+    <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
+    <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
+    <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+    <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
+    <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
+    <img src="https://img.shields.io/badge/Stripe-282C34?logo=Stripe&logoColor=0077B5" alt="Stripe logo" title="Stripe" height="25" />
+    <img src="https://img.shields.io/badge/antdesign-282C34?logo=antdesign&logoColor=0077B5" alt="antdesign logo" title="antdesign" height="25" />
+    <img src="https://img.shields.io/badge/daisyui-282C34?logo=daisyui&logoColor=0077B5" alt="daisyui logo" title="daisyui" height="25" />
+    <img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=0077B5" alt="python logo" title="python" height="25" />
+    <img src="https://img.shields.io/badge/flask-282C34?logo=flask&logoColor=0077B5" alt="flask logo" title="flask" height="25" />
+    <img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=0077B5" alt="Github logo" title="Github" height="25" />
+</div>
 
 <h2 align="center"> Code Editor <span title="Intergrated Development Environment">IDE</span>'s </h2>
 
 <p align="center">
-  <a title="Pycharm Professional" href="https://www.jetbrains.com/pycharm/buy/">
-    <img src="https://img.shields.io/badge/-pycharm-%23007ACC?style=flat-square&logo=pycharm&logoColor=white" />
-  </a>
-  <a title="VsCode" href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  </a>
-  <a title="Sublime Text" href="https://www.sublimetext.com/3">
-    <img src="https://img.shields.io/badge/-sublime%20text-%23fa9931?style=flat-square&logo=sublime-text&logoColor=white" />
-  </a>
-  <a title="Atom" href="https://atom.io/">
-    <img src="https://img.shields.io/badge/-Atom-%23fa9931?style=flat-square&logo=atom&logoColor=white" />
-  </a>    
-</p>
-
-<h2 align="center"> Server End </h2>
-
-<p align="center">
-  <a title="Apache Xampp" href="https://www.apachefriends.org/">
-    <img src="https://img.shields.io/badge/-Xampp-%23007ACC?style=flat-square&logo=xampp&logoColor=white"/>
-  </a>
+      <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+    <img src="https://img.shields.io/badge/WebStorm-282C34?logo=webstorm&logoColor=0077B5" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-282C34?logo=sublimetext&logoColor=0077B5" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+    <img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm&logoColor=0077B5" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 </p>
 
 <h2 align="center">Support</h2>
