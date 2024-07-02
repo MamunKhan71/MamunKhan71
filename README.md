@@ -1,6 +1,4 @@
-
-<div>
-    <h1 align="left"> <br>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></br></h1>
+<h1 align="left"> <br>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></br></h1>
 <img src="https://res.cloudinary.com/dfwmhlhyo/image/upload/v1719904669/rzymjtlv8hfge4msuemr.png" style="width: 100%;"/><br/><br/>
 <p align="left">My name is <a href="https://www.facebook.com/mkmamun111/">Md. Mamun.</a> I born in Cumilla, Bangladesh. I am a dreamer. I am a believer and I am a doer. I am a person who is positive in every aspect of life. I love experimenting with new things when it comes to technology. I am a tech-savvy person and that's why I choose to study at CSE. I am well known for my technical skills in technology. I can speak both Bangla and English well. I am a quick learner and a self-motivated person.</p>
 
@@ -13,7 +11,6 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1DPsDuE3zWSirxVbNYEVCTBvWcPb1NA23/view?usp=sharing)
 
 <h2 align="center"><br>📫</br>Find Me Here</h2>
-
 <p align="center">
     <a title="Facebook" href="https://www.facebook.com/mkmamun111/">
         <img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook" />
@@ -31,8 +28,7 @@
         <img src="https://img.shields.io/badge/github-282C34?logo=github" />
     </a>
 </p>
-
-<h2 align="center"> GitHub Stats </h2>
+<h2 align="center"><br>📈</br>GitHub Stats </h2>
 <div align="center">
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamunkhan71&theme=dark&hide_border=true" alt="mamunkhan71" style="width: 70%; max-width: 600px; border-radius: 20px;" />
@@ -43,14 +39,7 @@
   <img title="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunKhan71&layout=compact&langs_count=7&theme=dark&hide_border=true" style="height: 200px; width: auto; max-height: 200px; border-radius: 20px;" />
 </a>
 
-
-
-
-
-</div>
-<hr/>
-
-<h2 align="center"> Languages and Tools</h2>
+<h2 align="center"><br>⚙</br>Languages and Tools</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
     <img src="https://img.shields.io/badge/React-282C34?logo=react" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -72,7 +61,7 @@
     <img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=0077B5" alt="Github logo" title="Github" height="25" />
 </div>
 
-<h2 align="center"> Code Editor <span title="Intergrated Development Environment">IDE</span>'s </h2>
+<h2 align="center"><br>🧮</br>Code Editor <span title="Intergrated Development Environment">IDE</span>'s </h2>
 
 <p align="center">
       <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
@@ -81,11 +70,11 @@
     <img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm&logoColor=0077B5" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 </p>
 
-<h2 align="center">Support</h2>
+<h2 align="center"><br>🤝</br>Support</h2>
 <p align="center">
     <a href="https://ko-fi.com/mamunkhan71"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mamunkhan71" /></a>
 </p>
-<h2 align="center"> Overview</h2>
+<h2 align="center"><br>📊</br>Overview</h2>
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=MamunKhan71&theme=dracula&no-frame=true&no-bg=false&margin-w=4">
     <img src="https://github-profile-trophy.vercel.app/?username=MamunKhan71&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="mamunkhan71" />
